@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakti-pratik&label=Profile%20views&color=0e75b6&style=flat" alt="shakti-pratik" /> </p>
 
 - 🌱 I’m currently learning **Web Devlopment**
-
+- 💬 Ask me about **frontend developing ,java ,c ,python**
 - 📫 How to reach me **shaktibiswal368@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
